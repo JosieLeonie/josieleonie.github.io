@@ -1,3 +1,3 @@
 # Quick start for docs-as-code
 
-I am learning docs-as-code and am starting with my first repository.
+I am learning docs-as-code and have just created my first repository.
